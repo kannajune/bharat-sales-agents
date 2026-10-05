@@ -1,0 +1,15 @@
+Bharat Sales Agents
+Copyright (c) 2026 Kannan
+
+This project is derived from Agency Agents
+(https://github.com/msitarzewski/agency-agents) by msitarzewski and the
+AgentLand contributors, Copyright (c) 2025 AgentLand Contributors.
+
+The agent file format, the YAML frontmatter schema and the division directory
+structure are taken from that project and used under the MIT licence, whose
+terms and original copyright notice are retained in LICENSE.
+
+The agent content in this repository is original work written for the Indian
+B2B market. No agent file here is a copy or a translation of an upstream
+agent, and all 11 files were checked against the full upstream roster with
+the project's own originality tool before release.

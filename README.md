@@ -109,7 +109,7 @@ Several agents cover GST, TDS, MSME registration and invoicing mechanics, becaus
 
 This project exists because of [**Agency Agents**](https://github.com/msitarzewski/agency-agents) by [msitarzewski](https://github.com/msitarzewski) and the AgentLand contributors. Their agent file format, their division structure and the depth they set as a standard are all borrowed here directly. If you want agents for engineering, design, product, finance or security, go there first, because this pack deliberately covers one market and one function.
 
-Agency Agents is MIT licensed, and so is this. The original copyright notice is retained in [LICENSE](LICENSE).
+Agency Agents is MIT licensed, and so is this. The original copyright notice is retained in [LICENSE](LICENSE), with the derivation recorded in [NOTICE](NOTICE).
 
 ---
 
